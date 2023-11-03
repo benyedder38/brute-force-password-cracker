@@ -61,6 +61,7 @@ Due to the lack of multi-threading capabilities, the time taken to solve the pas
 a strong password. Advanced password cracker utilise all CPU cores and thereby are able to crack passwords
 significantly faster. Instead you this program as a guideline to see whether one inputted password is stronger
 than another inputted password.
+
 ---
 
 **Disclaimer:** This program should only be used for educational and ethical purposes. Unauthorized use for malicious intent is strictly prohibited.
